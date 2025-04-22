@@ -89,7 +89,7 @@ export default function ResumePage() {
             </div>
             <div className="flex items-center gap-1">
               <Link
-                href="#"
+                href="https://q-samiha-portfolio.vercel.app/"
                 className="flex items-center gap-1 text-emerald-400 hover:underline"
               >
                 <span>Portfolio</span>

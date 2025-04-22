@@ -60,7 +60,7 @@ export default function ProjectsPage() {
               title="KYAMCH-BRS Bioresearch"
               description="Portfolio and management system for bioresearch projects, featuring publication tracking and researcher profiles."
               tags={["Next.js", "TypeScript", "TanStack Query", "Shadcn UI"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/bio-research.png?height=400&width=600"
               demoUrl="#"
               professional={true}
             />
@@ -109,7 +109,7 @@ export default function ProjectsPage() {
               title="KYAMCH-BRS Bioresearch"
               description="Portfolio and management system for bioresearch projects, featuring publication tracking and researcher profiles."
               tags={["Next.js", "TypeScript", "TanStack Query", "Shadcn UI"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/bio-research.png?height=400&width=600"
               demoUrl="#"
               professional={true}
             />
@@ -162,7 +162,7 @@ export default function ProjectsPage() {
               title="KYAMCH-BRS Bioresearch"
               description="Portfolio and management system for bioresearch projects, featuring publication tracking and researcher profiles."
               tags={["Next.js", "TypeScript", "TanStack Query", "Shadcn UI"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/bio-research.png?height=400&width=600"
               demoUrl="#"
               professional={true}
             />

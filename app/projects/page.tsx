@@ -69,7 +69,7 @@ export default function ProjectsPage() {
               title="Procurement Management System"
               description="Comprehensive system for Drug International to manage procurements across 17 concerns, with approval workflows and reporting."
               tags={["Next.js", "Redux Toolkit", "React Hook Form", "Yup"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/buygenix.png?height=400&width=600"
               demoUrl="#"
               professional={true}
             />
@@ -131,7 +131,7 @@ export default function ProjectsPage() {
               title="Procurement Management System"
               description="Comprehensive system for Drug International to manage procurements across 17 concerns, with approval workflows and reporting."
               tags={["Next.js", "Redux Toolkit", "React Hook Form", "Yup"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/buygenix.png?height=400&width=600"
               demoUrl="#"
               professional={true}
             />
@@ -171,7 +171,7 @@ export default function ProjectsPage() {
               title="Procurement Management System"
               description="Comprehensive system for Drug International to manage procurements across 17 concerns, with approval workflows and reporting."
               tags={["Next.js", "Redux Toolkit", "React Hook Form", "Yup"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/buygenix.png?height=400&width=600"
               demoUrl="#"
               professional={true}
             />
